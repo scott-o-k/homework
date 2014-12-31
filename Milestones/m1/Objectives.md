@@ -4,6 +4,7 @@
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#basic-concepts)
 - [Nesting](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#nesting)
 - [Attributes](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#attributes)
+- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#semantic-tags)
 
 [HTML Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Resources.md)
 
@@ -17,7 +18,6 @@
 
 ## PHP Lessons
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-concepts)
-- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-logic)
 - [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#variable-types)
 
 [PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)

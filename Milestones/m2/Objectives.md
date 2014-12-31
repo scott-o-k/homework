@@ -3,7 +3,6 @@
 ## HTML Lessons
 - [Forms](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#forms)
 - [Form Constraint Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#form-constraint-validation)
-- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#semantic-tags)
 
 [HTML Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Resources.md)
 
