@@ -1,7 +1,7 @@
 # Milestone 2
 
 ## HTML Lessons
-- [Forms](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#forms)
+- [Forms](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#forms-basics)
 - [Form Constraint Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#form-constraint-validation)
 
 [HTML Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Resources.md)
