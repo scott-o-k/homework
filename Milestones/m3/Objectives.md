@@ -26,7 +26,7 @@
 - [Built-in Methods and Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/05%20Built-in%20Methods%20and%20Properties.md)
 - [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/06%20DOM%20and%20Document%20Methods.md)
 
-[JavaScript Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Resources.md)
+[JavaScript Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript.md)
 
 ## Misc Lessons
 - [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#regular-expressions)
