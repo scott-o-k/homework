@@ -2,9 +2,9 @@
 
 ## HTML Lessons
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/01%20Basic%20Concepts.md)
-- [Nesting](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#nesting)
-- [Attributes](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#attributes)
-- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#semantic-tags)
+- [Nesting](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/02%20Nesting.md)
+- [Attributes](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/03%20Attributes.md)
+- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/04%20Semantic%20Tags.md)
 
 ## CSS Lessons
 - [Basic Selectors](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#basic-selectors)

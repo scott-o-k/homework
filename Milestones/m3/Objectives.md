@@ -19,12 +19,12 @@
 [PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)
 
 ## JavaScript Lessons
-- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#basic-concepts)
-- [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#variable-types)
-- [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#basic-operators)
-- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#basic-logic)
-- [Built-in Methods and Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#built-in-methods-and-properties)
-- [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#dom-and-document-methods)
+- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/01%20Basic%20Concepts.md)
+- [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/02%20Variable%20Types.md)
+- [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/03%20Basic%20Operators.md)
+- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/04%20Basic%20Logic.md)
+- [Built-in Methods and Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/05%20Built-in%20Methods%20and%20Properties.md)
+- [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/06%20DOM%20and%20Document%20Methods.md)
 
 [JavaScript Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Resources.md)
 
