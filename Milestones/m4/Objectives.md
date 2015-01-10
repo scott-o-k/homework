@@ -18,14 +18,13 @@
 [MySQL Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Resources.md)
 
 ## JavaScript Lessons
-- [Arrays](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#arrays)
-- [Loops](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#loops)
-- [Object Literals](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#object-literals)
-- [User Defined Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#user-defined-functions)
-- [Callback and Anonymous Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#callback-and-anonymous-functions)
-- [jQuery Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#jquery-basics)
-- [jQuery Events](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#jquery-events)
-- [Templating with Handlebars](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#templating-with-handlebars)
+- [Arrays](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/07%20Arrays.md)
+- [Loops](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/08%20Loops.md)
+- [Object Literals](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/09%20Object%20Literals.md)
+- [User Defined Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/10%20User%20Defined%20Functions.md)
+- [Callback and Anonymous Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/11%20Callback%20and%20Anonymous%20Functions.md)
+- [jQuery Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/12%20jQuery%20Basics.md)
+- [jQuery Events](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/13%20jQuery%20Events.md)
+- [Templating with Handlebars](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/15%20Templating%20with%20Handlebars.md)
 
-[JavaScript Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Resources.md)
 

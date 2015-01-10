@@ -13,6 +13,4 @@
 [MySQL Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Resources.md)
 
 ## JavaScript Lessons
-- [AJAX](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Objectives.md#ajax)
-
-[JavaScript Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/JavaScript%20Resources.md)
+- [AJAX](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/16%20AJAX.md)

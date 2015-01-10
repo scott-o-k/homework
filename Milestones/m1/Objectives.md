@@ -7,12 +7,10 @@
 - [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/04%20Semantic%20Tags.md)
 
 ## CSS Lessons
-- [Basic Selectors](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#basic-selectors)
-- [Basic Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#basic-properties)
-- [Defaults](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#defaults)
-- [Basic Selector Strategy](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#basic-selector-strategy)
-
-[CSS Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Resources.md)
+- [Basic Selectors](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/01%20Basic%20Selectors.md)
+- [Basic Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/02%20Basic%20Properties.md)
+- [Defaults](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/03%20Defaults.md)
+- [Basic Selector Strategy](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/04%20Basic%20Selector%20Strategy.md)
 
 ## PHP Lessons
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-concepts)

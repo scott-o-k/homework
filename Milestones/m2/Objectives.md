@@ -1,18 +1,14 @@
 # Milestone 2
 
 ## HTML Lessons
-- [Forms](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#forms-basics)
-- [Form Constraint Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Objectives.md#form-constraint-validation)
-
-[HTML Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/HTML%20Resources.md)
+- [Forms](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/05%20Form%20Basics.md)
+- [Form Constraint Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/06%20Form%20Constraint%20Validation.md)
 
 ## CSS Lessons
-- [Box Model](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#box-model)
-- [Reset vs Normalize](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#reset-vs-normalize)
-- [Pseudo Classes](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#pseudo-classes)
-- [Flow and Floats](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Objectives.md#flow-and-floats)
-
-[CSS Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/CSS%20Resources.md)
+- [Box Model](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/05%20Box%20Model.md)
+- [Reset vs Normalize](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/06%20Reset%20vs%20Normalize.md)
+- [Pseudo Classes](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/07%20Pseudo%20Classes.md)
+- [Flow and Floats](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/08%20Flow%20and%20Floats.md)
 
 ## PHP Lessons
 - [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-operators)
