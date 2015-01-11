@@ -11,16 +11,12 @@
 - [Flow and Floats](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/08%20Flow%20and%20Floats.md)
 
 ## PHP Lessons
-- [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-operators)
-- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-logic)
-- [Built-in Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#built-in-functions)
-- [Arrays](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#arrays)
-- [Loops](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#loops)
-
-[PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)
+- [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/03%20Basic%20Operators.md)
+- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/04%20Basic%20Logic.md)
+- [Built-in Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/05%20Built-in%20Functions.md)
+- [Arrays](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/06%20Arrays.md)
+- [Loops](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/07%20Loops.md)
 
 ## Misc Lessons
-- [SSH Keys](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#ssh-keys)
-- [Git Projects](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#git-projects)
-
-[Misc Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Resources.md)
+- [SSH Keys](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/02%20SSH%20Keys.md)
+- [Git Projects](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/03%20Git%20Basics.md)

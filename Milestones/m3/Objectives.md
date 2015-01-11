@@ -7,14 +7,12 @@
 - [Patterns II](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/12%20Patterns%20II.md)
 
 ## PHP Lessons
-- [User Defined Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#user-defined-functions)
-- [OOP I](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#oop-i)
-- [OOP II](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#oop-ii)
-- [Try / Catch](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#try--catch)
-- [Server-Side Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#server-side-validation)
-- [Sessions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#sessions)
-
-[PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)
+- [User Defined Functions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/08%20User%20Defined%20Functions.md)
+- [OOP I](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/09%20OOP%20I.md)
+- [OOP II](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/10%20OOP%20II.md)
+- [Try / Catch](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/11%20Try%20Catch.md)
+- [Server-Side Validation](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/12%20Server-Side%20Validation.md)
+- [Sessions](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/13%20Sessions.md)
 
 ## JavaScript Lessons
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/01%20Basic%20Concepts.md)
@@ -25,5 +23,5 @@
 - [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/06%20DOM%20and%20Document%20Methods.md)
 
 ## Misc Lessons
-- [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#regular-expressions)
-- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#git-branching)
+- [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web%2004%20Regular%20Expressions.md)
+- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/05%20Git%20Branching.md)

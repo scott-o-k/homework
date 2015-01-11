@@ -13,17 +13,13 @@
 - [Basic Selector Strategy](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/04%20Basic%20Selector%20Strategy.md)
 
 ## PHP Lessons
-- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#basic-concepts)
-- [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#variable-types)
-
-[PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)
+- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/01%20Basic%20Concepts.md)
+- [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/02%20Variable%20Types.md)
 
 ## Misc Lessons
-- [Unix Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#unix-basics)
-- [Local Environment](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#local-environment)
-- [Chrome DevTools](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#chrome-devtools)
-- [Sublime Text](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#sublime-text)
-- [Basic HTTP Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#basic-http-concepts)
-- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Objectives.md#git-basics)
-
-[Misc Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Misc%20Resources.md)
+- [Unix Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/01%20Unix%20Basics.md)
+- [Local Environment](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2001%20Local%20Environment.md)
+- [Chrome DevTools](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2002%20Chrome%20DevTools.md)
+- [Sublime Text](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2003%20Sublime%20Text.md)
+- [Basic HTTP Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web%2001%20Basic%20HTTP%20Concepts.md)
+- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/03%20Git%20Basics.md)

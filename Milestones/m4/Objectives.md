@@ -1,21 +1,17 @@
 # Milestone 4
 
 ## PHP Lessons
-- [Connect to MySQL](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#connect-to-mysql)
-- [OOP III](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#oop-iii)
-- [OOP IV](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#oop-iv)
-- [Templating](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Objectives.md#templating)
-
-[PHP Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/PHP%20Resources.md)
+- [Connect to MySQL](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/14%20Connect%20to%20MySQL.md)
+- [OOP III](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/15%20OOP%20III.md)
+- [OOP IV](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/16%20OOP%20IV.md)
+- [Templating](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/17%20Templating.md)
 
 ## MySQL Lessons
-- [Database Design Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Objectives.md#database-design-basics)
-- [SQL Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Objectives.md#sql-basics)
-- [Normalization](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Objectives.md#normalization)
-- [SQL Joins I](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Objectives.md#sql-joins-i)
-- [SQL Joins II](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Objectives.md#sql-joins-ii)
-
-[MySQL Resources](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/MySQL%20Resources.md)
+- [Database Design Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/01%20Database%20Design%20Basics.md)
+- [SQL Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/02%20SQL%20Basics.md)
+- [Normalization](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/03%20Normalization.md)
+- [SQL Joins I](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/04%20SQL%20Joins%20I.md)
+- [SQL Joins II](https://github.com/PhoenixRockit/Student-Resources/blob/master/MySQL/05%20SQL%20Joins%20II.md)
 
 ## JavaScript Lessons
 - [Arrays](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/07%20Arrays.md)
