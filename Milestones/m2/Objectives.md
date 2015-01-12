@@ -18,4 +18,4 @@
 
 ## Misc Lessons
 - [SSH Keys](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Unix/02%20SSH%20Keys.md)
-- [Git Projects](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/02%20GitHub%20and%20Collaboration.md)
+- [GitHub and Collaboration](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/02%20GitHub%20and%20Collaboration.md)

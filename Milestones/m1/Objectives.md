@@ -1,10 +1,10 @@
 # Milestone 1
 
 ## HTML Lessons
-- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/01%20Basic%20Concepts.md)
-- [Nesting](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/02%20Nesting.md)
-- [Attributes](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/03%20Attributes.md)
-- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/04%20Semantic%20Tags.md)
+- [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/01%20Basic%20Concepts)
+- [Nesting](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/02%20Nesting)
+- [Attributes](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/03%20Attributes)
+- [Semantics](https://github.com/PhoenixRockit/Student-Resources/blob/master/HTML/04%20Semantic%20Tags)
 
 ## CSS Lessons
 - [Basic Selectors](https://github.com/PhoenixRockit/Student-Resources/blob/master/CSS/01%20Basic%20Selectors.md)
