@@ -17,9 +17,9 @@
 - [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/02%20Variable%20Types.md)
 
 ## Misc Lessons
-- [Unix Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/01%20Unix%20Basics.md)
-- [Local Environment](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2001%20Local%20Environment.md)
-- [Chrome DevTools](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2002%20Chrome%20DevTools.md)
-- [Sublime Text](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/WF%2003%20Sublime%20Text.md)
-- [Basic HTTP Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web%2001%20Basic%20HTTP%20Concepts.md)
-- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/03%20Git%20Basics.md)
+- [Unix Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Unix/01%20Unix%20Basics.md)
+- [Local Environment](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Workflow/01%20Local%20Environment.md)
+- [Chrome DevTools](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Workflow/02%20Chrome%20DevTools.md)
+- [Sublime Text](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Workflow/03%20Sublime%20Text.md)
+- [Basic HTTP Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web/01%20Basic%20HTTP%20Concepts.md)
+- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/03%20Git%20Basics.md)
