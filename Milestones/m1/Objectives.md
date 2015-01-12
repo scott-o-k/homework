@@ -15,6 +15,7 @@
 ## PHP Lessons
 - [Basic Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/01%20Basic%20Concepts.md)
 - [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/02%20Variable%20Types.md)
+- [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/03%20Basic%20Logic.md)
 
 ## Misc Lessons
 - [Unix Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Unix/01%20Unix%20Basics.md)

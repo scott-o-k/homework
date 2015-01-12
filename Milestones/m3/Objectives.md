@@ -23,5 +23,5 @@
 - [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/06%20DOM%20and%20Document%20Methods.md)
 
 ## Misc Lessons
-- [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web%2004%20Regular%20Expressions.md)
-- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/05%20Git%20Branching.md)
+- [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web/04%20Regular%20Expressions.md)
+- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/03%20Git%20Branching.md)
