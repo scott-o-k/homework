@@ -18,5 +18,5 @@
 - [Loops](https://github.com/PhoenixRockit/Student-Resources/blob/master/PHP/07%20Loops.md)
 
 ## Misc Lessons
-- [SSH Keys](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/02%20SSH%20Keys.md)
-- [Git Projects](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/03%20Git%20Basics.md)
+- [SSH Keys](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Unix/02%20SSH%20Keys.md)
+- [Git Projects](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/02%20GitHub%20and%20Collaboration.md)

@@ -22,4 +22,4 @@
 - [Chrome DevTools](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Workflow/02%20Chrome%20DevTools.md)
 - [Sublime Text](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Workflow/03%20Sublime%20Text.md)
 - [Basic HTTP Concepts](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web/01%20Basic%20HTTP%20Concepts.md)
-- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/03%20Git%20Basics.md)
+- [Git Basics](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/01%20Git%20Basics.md)
