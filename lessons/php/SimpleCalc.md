@@ -8,10 +8,10 @@ Number 1: 3
 Number 2: 5
 Operator: add
 ```
-### Hints
+### Hints:
 - don't get fancy or clever. Do **only** the minimum work to satisfy each step.
 
-## Step 2: Implement the add operator
+## Step 2: Implement the "add" operator
 Add the two inputs and display the result. Example output:
 ```
 Number 1: 3
@@ -19,5 +19,44 @@ Number 2: 5
 Operator: add
 Result: 8
 ```
-### Hints
+### Hints:
 - no if-statement is necessary yet since "add" is the only operator. (This derives from the first hint)
+
+## Step 3: Implement the "sub" operator
+This is just like "add", but it does subtraction instead.
+
+### Hints:
+- this would be a good time to add an if-statement
+- there are **only** two options so keep the if-statement as simple as possible
+- we saw in class that '+' is used to add to numbers. Subtraction uses the '-' character, crazy eh?
+```php
+$result = 3 + 4; // addition
+$result = 3 - 4; // subtraction
+```
+
+## Step 4: Format the output better
+Add a prettier representation of the problem to the output. Example:
+```
+Number 1: 3
+Number 2: 5
+Operator: add
+Result: 8
+
+3 + 5 = 8
+```
+
+## Step 5: Add "mult" and "div" operators
+Add one of them, test your program and then add the other one.
+
+### Hints:
+- The multiply operator is "*" and the division operator is "/"
+
+## Step 6: Add a "pow" operator, that is exponentiaion
+While we haven't covered using functions in any detail, math functions are pretty easy to use and I will show you how. PHP provides a function "pow()" that will raise a number to a power. For instance, to square the number 3, that is 3 to the 2nd power (3x3), you would use this code:
+```php
+$result = pow(3,2); // $result will be equal to 9
+```
+To get the cube of 2, that is 2 to the third power (2x2x2), you would use this code:
+```php
+$result = pow(2,3); // $result will be equal to 8
+```
