@@ -60,3 +60,6 @@ To get the cube of 2, that is 2 to the third power (2x2x2), you would use this c
 ```php
 $result = pow(2,3); // $result will be equal to 8
 ```
+
+## Step 7: Add more operators of your choosing
+PHP provides a wealth of built in math operators. You can see them all (and start familiarizing yourself with the PHP documentation) at http://php.net/manual/en/ref.math.php . If you click on any of the functions you will get a page that describes the function and give one or more examples of how to use it.
