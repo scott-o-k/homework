@@ -19,7 +19,7 @@
 - [Variable Types](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/02%20Variable%20Types)
 - [Basic Operators](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/03%20Basic%20Operators)
 - [Basic Logic](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/04%20Basic%20Logic)
-- [Built-in Methods and Properties](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/05%20Built-in%20Methods%20and%20Properties)
+- [Built-in Methods and Properties](https://github.com/PhoenixRockit/Student-Resources/tree/master/JavaScript/05%20Built-in%20Methods%20and%20Properties)
 - [DOM and Document Methods](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/06%20DOM%20and%20Document%20Methods)
 
 ## Misc Lessons
