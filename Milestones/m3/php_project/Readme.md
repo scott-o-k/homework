@@ -5,6 +5,7 @@
 - [State Details](#state-details)
 - [Validation Details](#validation-details)
 - [Implementation Suggestions](#implementation)
+- [FAQ](#faq)
 
 <a id="description"></a>
 ## Description:
@@ -22,6 +23,17 @@ three different states:
 - State 3: The request is a POST
   - For each pair of inputs the program will validate the input in the text field according to the "type" specified
   in the corresponding dropdown box and then output the results of the validation.
+
+Your project will have the following classes that will be used to perform validation of the text inputs:
+- Validator: this is the parent class of all the "concrete" validator sub-classes
+- EmailValidator: validate an email address
+- UsernameValidator: validate a username
+- PasswordValidator: validate a password
+- PhoneValidator: validate a phone number
+- NumberValidator: validate a number
+- ValidatorFactory: create an appropriate Validator for a given input type
+
+Don't think too much about classes or validation until we have covered them in class
 
 Your project **must** have these two files:
 - super_validator.php: this will be the main "front-end" to your project which is hit by the client
@@ -90,9 +102,51 @@ The form will look like this:
 
 <a id="validation-details"></a>
 ## Validation Details
+### Validation Specifications:
+- email:
+  - must contain one and only one '@' character
+  - there must be at least one character to the left of the '@'
+  - to the right of the '@' there must be one or more alpha characters, a '.', then upto 5 alpha characters
+- username:
+  - must be at 4-6 characters long
+  - must contain only alpha-numeric characters and '-' or '_'
+- password:
+  - must be 4-12 characters long
+  - must contain alpha AND numeric characters and optionally contain any of [!@#$%^&*()<>?]
+- phone number:
+  - must be of this format: NNN-NNN-NNNN where each N is a decimal digit
+- number:
+  - must contain at one or more digits
+  - may contain a '.', but not as the last character
+  - may contain a '-' as the first character
+
+## Validation Classes:
+This section will be completed when we cover classes in class
 
 <a id="implementation"></a>
 ## Implementation Suggestions
+
+### General Suggesions
+- get started NOW!
+- start simple, do the simplest thing you can to get started, then move onto the next simplest thing, repeat...
+- test your program after each step above
+- use git. checkin your code each time you get something working
+- ask questions, don't get stuck
+
+### Order of Things:
+1. don't worry about validation or classes to begin with. Start building the forms and making them work
+2. Build a State #2 form with a fixed number of fields and make it work such that you can post it and get a response that has all of the fields pre-populated with their previous values
+3. Add the State #1 form and make the number of fields in the State #2 form dynamic
+4. Create a data structure to hold input names, values, & validity
+5. Use above data structure to conditionally attach a css class to the inputs when you create them
+6. Write the Validator class and **one** sub-class
+7. Integrate the one sub-class into your project
+8. Write the ValidatorFactory class
+9. Integrate the ValidatorFactory class into your project
+10. One by one, write another Validator sub-class, add it to the Factory, then integrate it into your project
+11. Smile and be very proud of yourself, you have just completed a **real** project!
       
-      
-  
+<a id="faq"></a>
+## FAQs
+### Q:
+A:
