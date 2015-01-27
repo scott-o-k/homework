@@ -12,7 +12,7 @@ three different states:
 - State 2: The request is a GET and there is an input for the number of fields
   - The program will respond with a form (method="POST") that has N **pairs** of input fields where N is
   the number_of_fields input.
-  - Each pair will consist of one dropdown box and one text box (more details below)
+  - Each pair will consist of one dropdown box and one text box
 - State 3: The request is a POST
   - For each pair of inputs the program will validate the input in the text field according to the "type" specified
   in the corresponding dropdown box and then output the results of the validation.
@@ -22,7 +22,7 @@ visual aspects before your program is **fully** functional.
   
 ## Details:
 ### State #1:
-In state #1, when the request is a GET with no input parameters, your program should respond  with a form that has:
+In state #1, the request is a GET with no input parameters. Your program should respond  with a form that has:
 - method set to "GET"
 - one text field with a name of "num_fields".
 - a submit button
@@ -32,20 +32,48 @@ The form will look like this:
 ![state 1](image01.png)
 
 ### State #2:
+In state #2, the request is a GET and there is a "num_fields" parameter present. Your program should:
+- validate that the num_fields parameter is a positive integer. If is not, your program should redisplay the state #1 form. You **may** include a message that indicates to the user that the input was not valid but this is **not** required.
+- Assuming that num_fields is a positive integer, your program should respond with a form that:
+  - has action set to this page **including the incoming num_fields parameter**
+  - has method set to POST
+  - has N **pairs** of inputs where N is the value of the num_fields parameter
+  - Each pair of inputs will consist of:
+    - one text field with a name of "text_N" (N is different for each pair)
+    - one dropdown box with a name of "type_N" and these options:
+      - email
+      - username
+      - password
+      - phone
+      - number
 
+The form will look like this:
+
+![state 2](image00.png)
 
 ### State #3:
 
+In state #3, the request will be a POST and there will be:
+- a num_fields **GET** parameter
+- some number of **POST** inputs named "text_N" and "type_N" where N is in the range (1..num_fields)
 
-  - The program will re-create the same form from State 2 with these additions:
-    - The dropdown boxes will have the values from the input preselected
-    - If the text input is valid:
-      - The text fields will be populated with the values from the input
-      - The text fields will have some kind of CSS styling that indicates successful validation
-    - If the text input is NOT valid:
-      - The text field will be blank and have an error message to its right that explains the error and includes
-      the erroneous input
-      - The text field will have some kind of CSS styling that indicates unsuccessful validation
+Your program should:
+- validate the num_fields GET parameter. If it is not a positive integer, display the State 1 form
+- Assuming that num_fields is a valid integer:
+  - For each pair (text_N, type_N), validate the text field (text_N) according to the validation rules for type_N
+  - Recreate the same form from State 2 with these additions:
+    - All of the dropdowns should have the values from the input pre-selected
+    - For each text field:
+      - If the text is valid your program will:
+        - populate the text field with the input value
+        - add some kind of CSS styling that indicates that the value is valid
+      - If the text is **NOT** valid your program will: 
+        - leave the text field blank and have an error message to its right that includes the erroneous value
+        - add some kind of CSS styling that indicates that the value is **NOT** valid
+
+The form will look like this:
+
+![state 3](image02.png)
       
       
   
