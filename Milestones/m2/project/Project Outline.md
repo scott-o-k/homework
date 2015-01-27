@@ -8,7 +8,7 @@ In the last project, users selected their product with a link. This time use a f
 - Input field for quantity
 
 ## PHP
-Store your product inventory as an associative array in it's own file called products.php (this will be the only additional file needed from the last project). Then on your product output page (product.php), instead of using if-else statements for every product in your inventory, use the GET variable from the form to determine which product name should be outputted. The output should look as follows when the user chooses 5 Macs from the form:
+Store your product inventory as an indexed array in it's own file called products.php (this will be the only additional file needed from the last project). Then on your product output page (product.php), instead of using if-else statements for every product in your inventory, use the GET variable from the form to determine which product name should be outputted. The output should look as follows when the user chooses 5 Macs from the form:
 
 `You want to order 5 Mac`
 
