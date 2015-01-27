@@ -16,11 +16,20 @@ three different states:
 - State 3: The request is a POST
   - For each pair of inputs the program will validate the input in the text field according to the "type" specified
   in the corresponding dropdown box and then output the results of the validation.
-  
+
+As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on
+visual aspects before your program is **fully** functional.
   
 ## Details:
 ### State #1:
+In state #1, when the request is a GET with no input parameters, your program should respond  with a form that has:
+- method set to "GET"
+- one text field with a name of "num_fields".
+- a submit button
 
+The form will look like this:
+
+![state 1](image01.png)
 
 ### State #2:
 
