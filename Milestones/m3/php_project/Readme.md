@@ -10,7 +10,7 @@
 <a id="description"></a>
 ## Description:
 In this project you will build upon what you've learned about forms and building HTML elements dynamically. In
-addition, you will employ the use object-oriented classes and regular expressions to implement a set of validators.
+addition, you will employ the use of object-oriented classes and regular expressions to implement a set of validators.
 
 You will build a page that tests any number of inputs against a set of input validators. The program will have
 three different states:
@@ -21,8 +21,7 @@ three different states:
   the number_of_fields input.
   - Each pair will consist of one dropdown box and one text box
 - State 3: The request is a POST
-  - For each pair of inputs the program will validate the input in the text field according to the "type" specified
-  in the corresponding dropdown box and then output the results of the validation.
+  - For each pair of inputs the program will validate the input in the text field according to the "type" specified in the corresponding dropdown box and then output the results of the validation.
 
 Your project will have the following classes that will be used to perform validation of the text inputs:
 - Validator: this is the parent class of all the "concrete" validator sub-classes
@@ -41,8 +40,7 @@ Your project **must** have these two files:
 
 Your project **may** contain additional files if you choose. This is not a hint that you **should** have other files. It is only an allowance to have other files if you feel that they are helpful.
 
-As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on
-visual aspects before your program is **fully** functional.
+As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on visual aspects before your program is **fully** functional.
 
 <a id="state-details"></a>  
 ## State Details:
@@ -120,7 +118,7 @@ The form will look like this:
   - may contain a '.', but not as the last character
   - may contain a '-' as the first character
 
-## Validation Classes:
+### Validation Classes:
 This section will be completed when we cover classes in class
 
 <a id="implementation"></a>
