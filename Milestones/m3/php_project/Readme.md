@@ -2,9 +2,9 @@
 
 ## Contents:
 - [Description](#description)
-- State Details
-- Validation Details
-- Implementation Suggestions
+- [State Details](#state-details)
+- [Validation Details](#validation-details)
+- [Implementation Suggestions](#implementation)
 
 <a id="description"></a>
 ## Description:
@@ -31,8 +31,9 @@ Your project **may** contain additional files if you choose. This is not a hint 
 
 As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on
 visual aspects before your program is **fully** functional.
-  
-## Details:
+
+<a id="state-details"></a>  
+## State Details:
 ### State #1:
 In state #1, the request is a GET with no input parameters. Your program should respond  with a form that has:
 - method set to "GET"
@@ -87,7 +88,11 @@ The form will look like this:
 
 ![state 3](image02.png)
 
-## Implementation
+<a id="validation-details"></a>
+## Validation Details
+
+<a id="implementation"></a>
+## Implementation Suggestions
       
       
   
