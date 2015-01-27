@@ -42,6 +42,8 @@ Your project **may** contain additional files if you choose. This is not a hint 
 
 As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on visual aspects before your program is **fully** functional.
 
+**NOTE:** At this point you may feel slightly overwhelmed or even incapable of doing this project. First off, relax. You can do this. We wouldn't give you a project if we weren't fully confident in your ability to complete it. We also wouldn't give you a project that doesn't force you to grow. Everybody in the last class thought we were crazy at first and everybody in the last class completed the project. You already have all the knowledge you need to get through step #5 of this project. You will be using the lego blocks that you already know and have used, just in a slightly more complex way. The tools for the second half of the project will be covered this week and really don't require that much code. You will be well on the way to being a real programmer when this project is done. The most important factors in your success on this project will be getting started soon (immediately), working on it every day and bringing your questions up in class. You will not be able to knock this out in a day or two. All that said, get going, the code isn't going to write itself!
+
 <a id="state-details"></a>  
 ## State Details:
 ### State #1:
