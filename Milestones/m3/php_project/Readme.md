@@ -1,6 +1,12 @@
 # Milestone #3 PHP Project: Daniel's Super Duper Validator Testor
 
+## Contents:
+- [Description](#description)
+- State Details
+- Validation Details
+- Implementation Suggestions
 
+<a id="description"></a>
 ## Description:
 In this project you will build upon what you've learned about forms and building HTML elements dynamically. In
 addition, you will employ the use object-oriented classes and regular expressions to implement a set of validators.
@@ -16,6 +22,12 @@ three different states:
 - State 3: The request is a POST
   - For each pair of inputs the program will validate the input in the text field according to the "type" specified
   in the corresponding dropdown box and then output the results of the validation.
+
+Your project **must** have these two files:
+- super_validator.php: this will be the main "front-end" to your project which is hit by the client
+- Validator.php: this file will contain the validation related class as described in the "Validation" section of this document.
+
+Your project **may** contain additional files if you choose. This is not a hint that you **should** have other files. It is only an allowance to have other files if you feel that they are helpful.
 
 As far as visual aspects are concerned, this is not a "pixel perfect" project. You have full flexibility in regards to what the page looks like. That said, this project is all about writing PHP code, so don't spend a lot of time on
 visual aspects before your program is **fully** functional.
@@ -74,6 +86,8 @@ Your program should:
 The form will look like this:
 
 ![state 3](image02.png)
+
+## Implementation
       
       
   
