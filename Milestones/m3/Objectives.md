@@ -24,4 +24,3 @@
 
 ## Misc Lessons
 - [Regular Expressions](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Web/04%20Regular%20Expressions)
-- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/03%20Git%20Branching)
