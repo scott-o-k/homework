@@ -10,3 +10,6 @@
 
 ## JavaScript Lessons
 - [AJAX](https://github.com/PhoenixRockit/Student-Resources/blob/master/JavaScript/16%20AJAX)
+
+## Misc
+- [Git Branching](https://github.com/PhoenixRockit/Student-Resources/blob/master/Misc/Git/03%20Git%20Branching)
