@@ -1,4 +1,4 @@
-# Milestone 5 PHP Project: A POS System
+# Milestone 4 PHP Project: A POS System
 
 ## Description
 For this milestone we will build a point-of-sale (POS) system that a retailer might use to keep track of customers, invoices, and the items that are for sale. This project will be *very* light on visual design and will focus on database interactions. The project will consist of a set of pages that allows the store owner to manage customers, items, and invoices.
