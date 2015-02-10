@@ -1,25 +1,46 @@
+DROP DATABASE IF EXISTS pos;
+CREATE DATABASE pos;
+
+--
+-- Create database tables
+--
 CREATE TABLE customer (
-    id int auto_increment primary key,
-    first_name varchar(50),
-    last_name varchar(50),
-    email varchar(255),
-    phone varchar(50),
-    customer_since date
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    email VARCHAR(255),
+    phone VARCHAR(50),
+    customer_since DATE
 );
 
 CREATE TABLE item (
-    id int auto_increment primary key,
-    name varchar(100),
-    price decimal(7,2)
+    id INT auto_increment primary key,
+    name VARCHAR(100),
+    price DECIMAL(7,2)
 );
 
 CREATE TABLE invoice (
-    id int auto_increment primary key,
-    customer_id int NOT NULL,
-    created_at timestamp
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    customer_id INT NOT NULL,
+    created_at TIMESTAMP
 );
 
 CREATE TABLE invoice_item (
-    id int auto_increment primary key,
-    invoice_id int NOT NULL
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    invoice_id INT NOT NULL,
+    item_id INT NOT NULL,
+    quantity INT
 );
+
+--
+-- Insert sample data
+--
+
+INSERT INTO customer (first_name, last_name, email, phone, customer_since)
+    VALUES ('moe', 'o\'dools', 'moe@moes.com', '111-111-1111', CURDATE());
+
+INSERT INTO item (name, price) VALUES ('hammer', 17.95);
+
+INSERT INTO invoice (customer_id, created_at) VALUES (1, NOW());
+
+INSERT INTO invoice_item (invoice_id, item_id, quantity) VALUES (1, 1, 13);
