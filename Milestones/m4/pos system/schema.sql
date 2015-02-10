@@ -1,5 +1,12 @@
+--
+-- To use this file do either of:
+-- - copy/paste all the following code into the mysql client (in terminal)
+-- - $ cat schema.sql | mysql -u root
+--
+
 DROP DATABASE IF EXISTS pos;
 CREATE DATABASE pos;
+USE pos;
 
 --
 -- Create database tables
@@ -44,3 +51,4 @@ INSERT INTO item (name, price) VALUES ('hammer', 17.95);
 INSERT INTO invoice (customer_id, created_at) VALUES (1, NOW());
 
 INSERT INTO invoice_item (invoice_id, item_id, quantity) VALUES (1, 1, 13);
+
