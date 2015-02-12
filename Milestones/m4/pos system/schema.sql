@@ -43,8 +43,8 @@ CREATE TABLE invoice_item (
 -- Insert sample data
 --
 
-INSERT INTO customer (first_name, last_name, email, phone, customer_since)
-    VALUES ('moe', 'o\'dools', 'moe@moes.com', '111-111-1111', CURDATE());
+INSERT INTO customer (first_name, last_name, email, gender, customer_since)
+    VALUES ('moe', 'o\'dools', 'moe@moes.com', 'male', CURDATE());
 
 INSERT INTO item (name, price) VALUES ('hammer', 17.95);
 
