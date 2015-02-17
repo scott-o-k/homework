@@ -32,12 +32,12 @@ CREATE TABLE invoice (
     created_at TIMESTAMP
 );
 
-CREATE TABLE invoice_item (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    invoice_id INT NOT NULL,
-    item_id INT NOT NULL,
-    quantity INT
-);
+CREATE TABLE IF NOT EXISTS `invoice_item` (
+  `invoice_id` int(11) NOT NULL,
+  `item_id` int(11) NOT NULL,
+  `quantity` int(11) DEFAULT NULL,
+  PRIMARY KEY (`invoice_id`,`item_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Insert sample data
