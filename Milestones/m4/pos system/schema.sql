@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `invoice_item` (
 --
 
 INSERT INTO customer (first_name, last_name, email, gender, customer_since)
-    VALUES ('moe', 'o\'dools', 'moe@moes.com', 'male', CURDATE());
+    VALUES ('kat', 'jacobs', 'k@jacobs.com', 'female', CURDATE());
 
 INSERT INTO item (name, price) VALUES ('hammer', 17.95);
 
